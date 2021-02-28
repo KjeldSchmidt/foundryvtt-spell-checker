@@ -6,7 +6,6 @@ class SpellChecker {
   }
 
   static async create(options, content) {
-    window.alert(JSON.stringify(options));
     options.browser_spellcheck = true;
     return SpellCheckerSingleton.toWrap(options, content);
   }
