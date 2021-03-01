@@ -15,3 +15,6 @@ Alternatively, use the integrated module manager in Foundry.
 
 There is nothing specific that needs to be done, as soon as you open any journal
 entry, the browser built in spell checker will automatically kick in.
+
+## Licensing
+This mod has been created under the "LIMITED LICENSE AGREEMENT FOR MODULE DEVELOPMENT" from FoundryVTT that you can find [here](https://foundryvtt.com/article/license/).
