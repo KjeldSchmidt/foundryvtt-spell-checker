@@ -4,7 +4,8 @@
     "description": "This simple module adds spell checking to the text editor.",
     "author": "TheGoblinExplorer",
     "version": "v0.1.0-beta",
-    "minimumCoreVersion": "0.5.0",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion": "0.7.9",
     "scripts": [
         "./src/script.js"
     ],
