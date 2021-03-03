@@ -1,7 +1,7 @@
 class SpellChecker {
 
   ready() {
-    this.toWrap = TextEditor.create
+    this.toWrap = TextEditor.create.bind(TextEditor) // Maintain 'this' transparent
     TextEditor.create = SpellChecker.create
   }
 
