@@ -3,7 +3,7 @@
     "title": "Speller - An integrated spell checker",
     "description": "This simple module adds spell checking to the text editor.",
     "author": "TheGoblinExplorer",
-    "version": "v0.1.3-beta",
+    "version": "v0.1.4-beta",
     "minimumCoreVersion": "0.7.0",
     "compatibleCoreVersion": "0.7.9",
     "scripts": [
