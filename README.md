@@ -1,4 +1,4 @@
-# foundry-spell-checker
+# Speller
 A spell checker plugin for FoundryVTT
 
 ## Installation
