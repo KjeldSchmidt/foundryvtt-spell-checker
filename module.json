@@ -4,6 +4,9 @@
   "description": "This simple module adds spell checking to the text editor.",
   "authors": [
     {
+      "name": "Kjeld Schmidt"
+    }
+    {
       "name": "TheGoblinExplorer"
     }
   ],
@@ -18,8 +21,7 @@
   ],
   "languages": [],
   "media": [],
-  "url": "https://github.com/TheGoblinExplorer/foundryvtt-spell-checker",
-  "manifest": "https://github.com/TheGoblinExplorer/foundryvtt-spell-checker/releases/latest/download/module.json",
-  "download": "https://github.com/TheGoblinExplorer/foundryvtt-spell-checker/releases/latest/download/module.zip",
-  "bugs": "https://github.com/TheGoblinExplorer/foundry-spell-checker/issues"
+  "url": "https://github.com/KjeldSchmidt/foundryvtt-spell-checker",
+  "manifest": "https://raw.githubusercontent.com/KjeldSchmidt/foundryvtt-spell-checker/refs/heads/master/module.json",
+  "download": "https://github.com/KjeldSchmidt/foundryvtt-spell-checker/archive/refs/tags/spell-checker-foundry-13-rc1.zip",
 }
