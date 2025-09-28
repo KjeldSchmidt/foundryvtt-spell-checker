@@ -6,7 +6,7 @@ A spell checker plugin for FoundryVTT
 To install, follow these instructions:
 
 1.  Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
-2.  Click the Install Module button and enter the following URL: https://github.com/TheGoblinExplorer/foundryvtt-spell-checker/releases/latest/download/module.json
+2.  Click the Install Module button and enter this URL: https://raw.githubusercontent.com/KjeldSchmidt/foundryvtt-spell-checker/refs/heads/master/module.json
 3.  Click Install and wait for installation to complete.
 
 Alternatively, use the integrated module manager in Foundry.
